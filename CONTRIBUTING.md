@@ -23,8 +23,8 @@ Use the [correction form](https://github.com/bestdailygames/bestdailygames/issue
 Edit `README.md` using GitHub’s pencil icon, or fork and submit a PR.
 
 - Add the entry alphabetically in one suitable category.
-- Link the name to the original publisher and keep the description to one sentence.
-- Add a Daily Games guide only if it is already live; otherwise omit it.
+- Link the game name to its live `https://bestdaily.games/games/<slug>/` page and keep the description to one sentence.
+- Put the original publisher URL and rules source in the Issue or PR for verification. If no Daily Games page exists yet, suggest the game through an Issue first.
 - Keep puzzle platforms and paused games in their own sections.
 - Include publisher sources, checks performed, actual review date and your relationship in the PR.
 - Update the count and `CHANGELOG.md` for substantive changes. Never advance dates without a completed review.

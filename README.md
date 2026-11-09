@@ -21,7 +21,7 @@ Account, payment, language or device restrictions:
 Your relationship to the game:
 ```
 
-- **Add:** use the original HTTPS destination and place the game alphabetically in a category.
+- **Add:** suggest the original publisher URL for review; published entries link to their Daily Games pages.
 - **Fix:** include the affected entry, what changed and a supporting source.
 - **Review:** help check [open suggestions](https://github.com/bestdailygames/bestdailygames/issues); comment first to coordinate larger edits.
 
@@ -31,64 +31,64 @@ Players and creators are welcome. Keep descriptions factual and spoiler-free; di
 
 **Last updated: 2026-11-09** · **25 listings** · [Changelog](CHANGELOG.md)
 
-Game names link to original publishers; **Guide** links lead to bestdaily.games. Accounts, paid extras and reset times vary by publisher. Platforms and paused games are listed separately.
+Game names open their Daily Games pages for play options, rules and publisher information. Accounts, paid extras and reset times vary by publisher. Platforms and paused games are listed separately.
 
 [Daily word games](#daily-word-games) · [Daily trivia games](#daily-trivia-games) · [Daily geography games](#daily-geography-games) · [Number and price games](#number-and-price-games) · [Visual and estimation games](#visual-and-estimation-games) · [Daily logic games](#daily-logic-games) · [Daily music games](#daily-music-games) · [Daily movie games](#daily-movie-games) · [Puzzle platforms](#puzzle-platforms) · [Archives and paused games](#archives-and-paused-games)
 
 ### Daily word games
 
-- [Connections](https://www.nytimes.com/games/connections) — Sort sixteen words into four groups by their shared connections. [Guide](https://bestdaily.games/games/connections/).
-- [Dartwords](https://www.dartwords.com/) — Use Darty’s meaning-based feedback to find the secret word. [Guide](https://bestdaily.games/games/dartwords/).
-- [Feetle](https://feetle.fun/) — Change one letter per step to turn the daily starting word into FEET. [Guide](https://bestdaily.games/games/feetle/).
-- [Layers](https://www.hiddenlayerlabs.com/play/) — Solve four mini word puzzles, then connect their answers in a final grouping challenge. [Guide](https://bestdaily.games/games/layers/).
-- [Poople](https://poople.io/) — Reach POOP from a daily starting word, changing one letter through valid words. [Guide](https://bestdaily.games/games/poople/).
-- [Waffle](https://wafflegame.net/) — Swap letters into intersecting words in fifteen moves or fewer. [Guide](https://bestdaily.games/games/waffle/).
-- [Wordle](https://www.nytimes.com/games/wordle/index.html) — Guess the five-letter word in six attempts with letter and position feedback. [Guide](https://bestdaily.games/games/wordle/).
+- [Connections](https://bestdaily.games/games/connections/) — Sort sixteen words into four groups by their shared connections.
+- [Dartwords](https://bestdaily.games/games/dartwords/) — Use Darty’s meaning-based feedback to find the secret word.
+- [Feetle](https://bestdaily.games/games/feetle/) — Change one letter per step to turn the daily starting word into FEET.
+- [Layers](https://bestdaily.games/games/layers/) — Solve four mini word puzzles, then connect their answers in a final grouping challenge.
+- [Poople](https://bestdaily.games/games/poople/) — Reach POOP from a daily starting word, changing one letter through valid words.
+- [Waffle](https://bestdaily.games/games/waffle/) — Swap letters into intersecting words in fifteen moves or fewer.
+- [Wordle](https://bestdaily.games/games/wordle/) — Guess the five-letter word in six attempts with letter and position feedback.
 
 ### Daily trivia games
 
-- [Krillion](https://krillion.io/) — Answer seven timed trivia prompts, aiming for valid but unusual answers. [Guide](https://bestdaily.games/games/krillion/).
-- [Majority](https://www.majoritygame.com/) — Predict the crowd’s most popular answers to five daily prompts. [Guide](https://bestdaily.games/games/majority/).
-- [Moonshot](https://moonshotdailygame.com/) — Find common and rare trivia answers in space-themed daily missions. [Guide](https://bestdaily.games/games/moonshot/).
-- [Namesake](https://www.namesakegame.com/) — Pair surnames belonging to people or characters who share a first name. [Guide](https://bestdaily.games/games/namesake/).
+- [Krillion](https://bestdaily.games/games/krillion/) — Answer seven timed trivia prompts, aiming for valid but unusual answers.
+- [Majority](https://bestdaily.games/games/majority/) — Predict the crowd’s most popular answers to five daily prompts.
+- [Moonshot](https://bestdaily.games/games/moonshot/) — Find common and rare trivia answers in space-themed daily missions.
+- [Namesake](https://bestdaily.games/games/namesake/) — Pair surnames belonging to people or characters who share a first name.
 
 ### Daily geography games
 
-- [Globle](https://globle-game.com/) — Find the mystery country using warmer and colder colors on a globe. [Guide](https://bestdaily.games/games/globle/).
-- [MapTap](https://maptap.gg/) — Locate cities on a rotatable globe and see how close your guesses land. [Guide](https://bestdaily.games/games/maptap/).
-- [Worldle](https://worldle.teuteuf.fr/) — Identify a country or territory from its outline, distance and direction clues. [Guide](https://bestdaily.games/games/worldle/).
+- [Globle](https://bestdaily.games/games/globle/) — Find the mystery country using warmer and colder colors on a globe.
+- [MapTap](https://bestdaily.games/games/maptap/) — Locate cities on a rotatable globe and see how close your guesses land.
+- [Worldle](https://bestdaily.games/games/worldle/) — Identify a country or territory from its outline, distance and direction clues.
 
 ### Number and price games
 
-- [Costcodle](https://costcodle.com/) — Guess a Costco item’s price in six tries using higher-or-lower feedback. [Guide](https://bestdaily.games/games/costcodle/).
-- [Hundo](https://hundo.today/) — Answer five estimation questions from 0 to 100, aiming for the lowest error. [Guide](https://bestdaily.games/games/hundo/).
-- [Number Waffle](https://wafflegame.net/numberwaffle) — Swap numbers to satisfy row, column and sum clues within twenty moves. [Guide](https://bestdaily.games/games/number-waffle/).
+- [Costcodle](https://bestdaily.games/games/costcodle/) — Guess a Costco item’s price in six tries using higher-or-lower feedback.
+- [Hundo](https://bestdaily.games/games/hundo/) — Answer five estimation questions from 0 to 100, aiming for the lowest error.
+- [Number Waffle](https://bestdaily.games/games/number-waffle/) — Swap numbers to satisfy row, column and sum clues within twenty moves.
 
 ### Visual and estimation games
 
-- [Perceptle](https://perceptle.com/) — Complete five short daily tests of perception, timing and instinct. [Guide](https://bestdaily.games/games/perceptle/).
-- [Size It Up](https://magnitudle.com/size-it-up) — Resize objects against real-world references in five daily comparisons. [Guide](https://bestdaily.games/games/size-it-up/).
+- [Perceptle](https://bestdaily.games/games/perceptle/) — Complete five short daily tests of perception, timing and instinct.
+- [Size It Up](https://bestdaily.games/games/size-it-up/) — Resize objects against real-world references in five daily comparisons.
 
 ### Daily logic games
 
-- [Murdle](https://murdle.com/) — Use clues and a deduction grid to solve the daily murder mystery. [Guide](https://bestdaily.games/games/murdle/).
+- [Murdle](https://bestdaily.games/games/murdle/) — Use clues and a deduction grid to solve the daily murder mystery.
 
 ### Daily music games
 
-- [Bandle](https://bandle.app/) — Recognize a song as additional instruments join the arrangement. [Guide](https://bestdaily.games/games/bandle/).
-- [Songless](https://lessgames.com/songless) — Identify a daily song from increasingly revealing audio clips. [Guide](https://bestdaily.games/games/songless/).
+- [Bandle](https://bestdaily.games/games/bandle/) — Recognize a song as additional instruments join the arrangement.
+- [Songless](https://bestdaily.games/games/songless/) — Identify a daily song from increasingly revealing audio clips.
 
 ### Daily movie games
 
-- [Framed](https://framed.wtf/) — Identify the movie from still images revealed across successive guesses. [Guide](https://bestdaily.games/games/framed/).
+- [Framed](https://bestdaily.games/games/framed/) — Identify the movie from still images revealed across successive guesses.
 
 ### Puzzle platforms
 
-- [Sussydle](https://sussydle.com/) — Organize daily puzzles, record results and compare scores with friends. [Guide](https://bestdaily.games/games/sussydle/).
+- [Sussydle](https://bestdaily.games/games/sussydle/) — Organize daily puzzles, record results and compare scores with friends.
 
 ### Archives and paused games
 
-- [Originle](https://originle.io/) — Infer a guest’s home country from personal clues; new daily puzzles are paused. [Guide](https://bestdaily.games/games/originle/).
+- [Originle](https://bestdaily.games/games/originle/) — Infer a guest’s home country from personal clues; new daily puzzles are paused.
 
 ## Updates and contact
 
