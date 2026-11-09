@@ -26,6 +26,16 @@ Use the [listing correction form](https://github.com/bestdailygames/bestdailygam
 
 Keep paused games and companion platforms in their separate sections. Do not claim a game is official, free, unlimited, account-free or mobile-friendly without evidence. Do not include website source code, credentials, private analytics or personal information.
 
+## Coordinate with other contributors
+
+Check open issues and pull requests before starting. Comment on an existing suggestion if you want to research it, and share the publisher sources or device observations you have checked. This helps others avoid duplicating the same work. You can help without coding by reviewing descriptions, reporting changed access conditions or identifying the original publisher.
+
+Creators are welcome to answer factual questions about their game. Maintainers decide inclusion based on the same documented criteria for all submissions. There is no payment or reciprocal-link requirement.
+
+## Credit and updates
+
+Merged pull requests preserve contributor credit in GitHub’s history. Helpful issue reports and source reviews remain part of the public discussion. Record substantive additions, corrections and completed reviews in `CHANGELOG.md`; do not make empty daily updates or invent a community size.
+
 ## Maintainer review
 
 Before merging, verify the original destination, gameplay description, category, daily schedule where documented, relevant access conditions and any live guide link. Record a real review date and describe substantive changes in the changelog. Preserve publisher credit and move paused entries to the archive section when supported by the publisher.

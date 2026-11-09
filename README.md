@@ -10,6 +10,45 @@ A curated directory of **daily games** for a small, satisfying break: word puzzl
 
 **Last directory update: 2026-11-09** · **25 listings:** 23 daily games, 1 puzzle platform and 1 archive/hiatus listing.
 
+## Build this collection with us
+
+**This is a community-maintained directory. Players discover games, creators submit their work, and contributors help check links, clarify rules and keep the collection useful.** You can contribute without writing application code.
+
+**[Suggest a daily game](https://github.com/bestdailygames/bestdailygames/issues/new?template=game-suggestion.yml)** · **[Fix a listing](https://github.com/bestdailygames/bestdailygames/issues/new?template=report-listing.yml)** · [Review open suggestions](https://github.com/bestdailygames/bestdailygames/issues) · [Contribution guide](CONTRIBUTING.md)
+
+### Suggest a game with an Issue
+
+Search this README and [existing issues](https://github.com/bestdailygames/bestdailygames/issues) first. Then open the **Suggest a daily game** form, one game per issue. Use this format:
+
+```text
+Title: [Game suggestion] Game name
+
+Game name:
+Original HTTPS play URL:
+Suggested category:
+One-sentence gameplay description:
+Daily mode and publisher rules/help URL:
+Access, language and device notes:
+Your relationship to the game: creator / publisher / player / none
+```
+
+Explain what the player actually does and link to evidence of the daily mode. Include sign-in requirements, paid features and important mobile limitations; say “unknown” when you have not checked. Creators are welcome to submit their own games with that relationship disclosed. Keep submissions spoiler-free and use original destinations without referral links.
+
+### Improve an entry with a pull request
+
+Use the pencil icon on `README.md` to propose an edit, or fork the repository and open a pull request. Add the game alphabetically in the most suitable category, keep its description to one factual sentence, and record the date you actually reviewed it. Include publisher sources and access notes in the PR. A live Daily Games guide is optional: use `—` in the Guide column when no guide exists yet.
+
+For broken links, changed rules or a paused daily schedule, use **Fix a listing** and include the affected URL, a clear correction and supporting evidence. See [CONTRIBUTING.md](CONTRIBUTING.md) for the full checklist.
+
+### Help review and keep it alive
+
+- **Players:** suggest discoveries and report changes you encounter during your daily routine.
+- **Creators:** submit original games, clarify their rules and tell us when their URLs or access conditions change.
+- **Contributors:** help review open suggestions, check publisher sources and improve existing descriptions. Comment on an issue before starting a larger edit so others can coordinate.
+- **Maintainers:** review evidence, ask for missing details and merge accurate changes. Accepted contributions are visible in the issue or pull-request history; substantive updates are recorded in [CHANGELOG.md](CHANGELOG.md).
+
+No backlink or payment is required for consideration. Suggestions are reviewed rather than automatically published. Star the repository to find it again, or use **Watch → Custom → Issues / Pull requests** to follow contributions and join the next review.
+
 ## What are daily games?
 
 Daily games offer a new puzzle or challenge on a recurring daily schedule. Many give players the same challenge for the day, making scores and spoiler-free results fun to compare. Wordle is a familiar example, but the format also includes country guessing, movie stills, musical clues, word ladders and quick estimation challenges. Reset times, archives and replay options vary by publisher.
@@ -30,7 +69,7 @@ This public repository contains the directory, submission guidelines and update 
 - [Daily movie games](#daily-movie-games)
 - [Daily puzzle platforms](#daily-puzzle-platforms)
 - [Archives and games on hiatus](#archives-and-games-on-hiatus)
-- [Suggest a game or correction](#suggest-a-game-or-correction)
+- [Community contribution workflow](#build-this-collection-with-us)
 
 ## How this list is curated
 
@@ -124,22 +163,6 @@ These entries are retained for their archives and are not presented as actively 
 Start with a favorite and add a different type of challenge: a word game, a geography puzzle and a quick trivia round make a varied break. The [Daily Games directory](https://bestdaily.games/games/) lets you explore the full collection and save the games you want to revisit.
 
 For a focused starting point, browse [daily word games](https://bestdaily.games/collections/daily-word-games/), [geography games](https://bestdaily.games/collections/geography-games/) or [games like Krillion](https://bestdaily.games/collections/games-like-krillion/).
-
-## Suggest a game or correction
-
-Know a daily game we should consider? **[Submit a game suggestion](https://github.com/bestdailygames/bestdailygames/issues/new?template=game-suggestion.yml)**. You can also [submit through the website](https://bestdaily.games/submit/) or open a pull request that updates this README.
-
-Please include:
-
-1. The game’s name and original HTTPS play URL.
-2. A proposed category and one factual sentence explaining the core gameplay.
-3. Evidence of its daily mode, such as the publisher’s rules or help page.
-4. Account requirements, payments, language or important device/access restrictions.
-5. Your connection to the game, if you are its creator, publisher or promoter.
-
-Search existing issues and the list before submitting. One game per suggestion helps us review it. Submit original destinations, keep descriptions spoiler-free, and leave out referral links, keyword stuffing and unsupported popularity claims. For a correction, include the current entry and a source explaining what changed. Details and a pull-request checklist are in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-Submissions are reviewed for relevance, accuracy and usability. A suggestion does not guarantee inclusion, and inclusion does not require a backlink or payment. If the original site becomes unavailable or pauses updates, we may annotate, move or remove the entry.
 
 ## Maintenance and contact
 
