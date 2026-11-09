@@ -1,0 +1,24 @@
+name: Correct a listing or report a broken link
+description: Help keep game links, descriptions and status accurate.
+title: "[Listing correction] "
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Game name and affected URL
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What needs changing?
+      description: Describe the wrong link, rule, category, access condition or paused daily schedule.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence and reproduction details
+      description: Link a publisher source or describe what you observed, including date and device if relevant. Do not post private information.
+    validations:
+      required: true

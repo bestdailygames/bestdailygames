@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Submit a game on Daily Games
+    url: https://bestdaily.games/submit/
+    about: Suggest a game through the website.
+  - name: Private support
+    url: https://bestdaily.games/about/
+    about: Find the public support email for account questions or sensitive reports.
