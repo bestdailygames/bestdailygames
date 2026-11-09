@@ -1,0 +1,65 @@
+name: Suggest a daily game
+description: Recommend an original daily game for the directory.
+title: "[Game suggestion] "
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for contributing. Search existing entries and issues first, and suggest one game per issue."
+  - type: input
+    id: game
+    attributes:
+      label: Game name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Original HTTPS play URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggested category
+      options:
+        - Word
+        - Trivia
+        - Geography
+        - Numbers and prices
+        - Visual and estimation
+        - Logic
+        - Music
+        - Movies
+        - Puzzle platform
+        - Another category (explain below)
+    validations:
+      required: true
+  - type: textarea
+    id: gameplay
+    attributes:
+      label: One-sentence gameplay description
+      description: Explain the core action without spoilers or promotional claims.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Daily mode and publisher sources
+      description: Link to the rules or help page and explain the daily challenge. Include the reset time only if documented.
+    validations:
+      required: true
+  - type: textarea
+    id: access
+    attributes:
+      label: Access, language and device notes
+      description: Mention sign-in, paid features, ads, language, mobile limitations or other restrictions; say unknown when unsure.
+    validations:
+      required: true
+  - type: input
+    id: relationship
+    attributes:
+      label: Your relationship to the game
+      placeholder: Creator, player, publisher, or none
+    validations:
+      required: true
