@@ -2,6 +2,12 @@
 
 Only substantive additions, corrections and editorial reviews belong here. Dates reflect completed work rather than an automatic daily refresh.
 
+## 2026-11-11 — Two new original-game guides and clearer choices
+
+- Added Farflung and Kegillion, with original publisher links, scoring, mode and reset notes. Both open on their official websites.
+- Synced the existing Wonderhop and Cosmillion listings, bringing the directory to 39 listings with 13 original embedded games.
+- Clarified Feetle’s Daily and Unlimited entry points, Pyralinks mode differences, Perceptle’s five tests, Wonderhop access and Originle’s archive status.
+
 ## 2026-11-09 — More ways to discover and play
 
 - Added Noillirk, Magnitudle, Pyralinks, Chainle, Amountle, Gamedle, Daily Orbs, Fermi, Draw the Border and Travle; 35 researched listings in total.
