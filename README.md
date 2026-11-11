@@ -29,9 +29,9 @@ Players and creators are welcome. Keep descriptions factual and spoiler-free; di
 
 ## Current list of daily games
 
-**Last updated: 2026-11-09** · **35 listings** · [Changelog](CHANGELOG.md)
+**Last updated: 2026-11-11** · **39 listings** · [Changelog](CHANGELOG.md)
 
-Game names open their Daily Games pages for play options, rules and publisher information. Eleven original games are playable inside Daily Games; others open the official publisher. Accounts, paid extras and reset times vary by publisher. Platforms and paused games are listed separately.
+Game names open their Daily Games pages for play options, rules and publisher information. Thirteen original games are playable inside Daily Games; others open the official publisher. Accounts, paid extras and reset times vary by publisher. Platforms and paused games are listed separately.
 
 [Daily word games](#daily-word-games) · [Daily trivia games](#daily-trivia-games) · [Daily geography games](#daily-geography-games) · [Number and price games](#number-and-price-games) · [Visual and estimation games](#visual-and-estimation-games) · [Daily logic games](#daily-logic-games) · [Daily music games](#daily-music-games) · [Daily movie games](#daily-movie-games) · [Puzzle platforms](#puzzle-platforms) · [Archives and paused games](#archives-and-paused-games)
 
@@ -48,6 +48,9 @@ Game names open their Daily Games pages for play options, rules and publisher in
 
 ### Daily trivia games
 
+- [Cosmillion](https://bestdaily.games/games/cosmillion/) — Name unusual valid answers to fuel a seven-prompt space journey.
+- [Kegillion](https://bestdaily.games/games/kegillion/) — Answer seven campus-culture prompts and compare rarity tiers.
+- [Wonderhop](https://bestdaily.games/games/wonderhop/) — Choose common, rare, oldest or newest answers across four daily trivia modes.
 - [Daily Orbs](https://bestdaily.games/games/daily-orbs/) — Four topics. Six orbs. Find your own route to a daily win.
 - [Gamedle](https://bestdaily.games/games/gamedle/) — The cover looks familiar. Which video game is it?
 - [Krillion](https://bestdaily.games/games/krillion/) — Answer seven timed trivia prompts, aiming for valid but unusual answers.
@@ -58,6 +61,7 @@ Game names open their Daily Games pages for play options, rules and publisher in
 
 ### Daily geography games
 
+- [Farflung](https://bestdaily.games/games/farflung/) — Drop five country pins and travel further with less obvious correct answers.
 - [Draw the Border](https://bestdaily.games/games/draw-the-border/) — The map is missing a country. Draw it back from memory.
 - [Globle](https://bestdaily.games/games/globle/) — Find the mystery country using warmer and colder colors on a globe.
 - [MapTap](https://bestdaily.games/games/maptap/) — Locate cities on a rotatable globe and see how close your guesses land.
