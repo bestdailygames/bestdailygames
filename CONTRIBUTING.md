@@ -12,7 +12,7 @@ Search the README and existing issues first. Open the [game suggestion form](htt
 - Account, payment, language and device restrictions, or “unknown” if unchecked.
 - Your connection to the game, including creator or publisher relationships.
 
-Use original destinations without referral links. A suggestion is reviewed before inclusion; no payment or reciprocal link is required.
+Submit the publisher’s original play URL without tracking parameters. A suggestion is reviewed before inclusion; no payment or reciprocal link is required.
 
 ## Fix or review a listing
 
@@ -23,8 +23,8 @@ Use the [correction form](https://github.com/bestdailygames/bestdailygames/issue
 Edit `README.md` using GitHub’s pencil icon, or fork and submit a PR.
 
 - Add the entry alphabetically in one suitable category.
-- Link the game name to its live `https://bestdaily.games/games/<slug>/` page and keep the description to one sentence.
-- Put the original publisher URL and rules source in the Issue or PR for verification. If no Daily Games page exists yet, suggest the game through an Issue first.
+- Link the game name to the publisher’s original play page and keep the description to one sentence. For a paused game, use the publisher’s archive when available.
+- Include the untagged publisher URL and rules source in the PR for verification. Maintainers add `utm_source=bestdaily.games` and `utm_medium=referral` when the tagged URL leads to the same game.
 - Keep puzzle platforms and paused games in their own sections.
 - Include publisher sources, checks performed, actual review date and your relationship in the PR.
 - Update the count and `CHANGELOG.md` for substantive changes. Never advance dates without a completed review.

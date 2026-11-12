@@ -2,6 +2,12 @@
 
 Only substantive additions, corrections and editorial reviews belong here. Dates reflect completed work rather than an automatic daily refresh.
 
+## 2026-11-12 — Original publisher links and four daily games
+
+- Added Extraplot, Huedle, Eraly and NYT Pips, bringing the directory to 43 listings.
+- Updated game links across the directory to open the publisher’s original game or archive. Added referral attribution where the tagged link reaches the same destination.
+- Updated the contribution guide and pull request checklist to reflect the original-link format.
+
 ## 2026-11-11 — Two new original-game guides and clearer choices
 
 - Added Farflung and Kegillion, with original publisher links, scoring, mode and reset notes. Both open on their official websites.
