@@ -13,7 +13,7 @@
 ## Checklist
 
 - [ ] I checked for an existing entry or duplicate submission.
-- [ ] I linked the listed game to its live Daily Games page and included the original publisher URL as review evidence.
+- [ ] The game links to the publisher’s original play page or archive. The untagged URL and publisher rules are included as review evidence.
 - [ ] I noted relevant sign-in, payment, language or device restrictions.
 - [ ] The listing has one destination link and a factual, spoiler-free one-sentence description.
 - [ ] Review dates, counts and changelog reflect checks I actually completed.
