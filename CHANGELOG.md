@@ -7,6 +7,7 @@ Only substantive additions, corrections and editorial reviews belong here. Dates
 - Added Extraplot, Huedle, Eraly and NYT Pips, bringing the directory to 43 listings.
 - Updated game links across the directory to open the publisher’s original game or archive. Added referral attribution where the tagged link reaches the same destination.
 - Updated the contribution guide and pull request checklist to reflect the original-link format.
+- Added Word Solitaire’s official daily deal from [issue #1](https://github.com/bestdailygames/bestdailygames/issues/1), bringing the GitHub directory to 44 listings.
 
 ## 2026-11-11 — Two new original-game guides and clearer choices
 
