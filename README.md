@@ -29,7 +29,7 @@ Players and creators are welcome. Keep descriptions factual and spoiler-free; di
 
 ## Current list of daily games
 
-**Last updated: 2026-11-12** · **43 listings** · [Changelog](CHANGELOG.md)
+**Last updated: 2026-11-12** · **44 listings** · [Changelog](CHANGELOG.md)
 
 Game names open the original game or publisher archive. Find rules, access details and play options in the [Best Daily Games guides](https://bestdaily.games/games/). Accounts, paid extras and reset times vary by publisher. Platforms and paused games have their own sections below.
 
@@ -44,6 +44,7 @@ Game names open the original game or publisher archive. Find rules, access detai
 - [Layers](https://www.hiddenlayerlabs.com/play/?utm_source=bestdaily.games&utm_medium=referral) — Solve four mini word puzzles, then connect their answers in a final grouping challenge.
 - [Poople](https://poople.io/?utm_source=bestdaily.games&utm_medium=referral) — Reach POOP from a daily starting word, changing one letter through valid words.
 - [Waffle](https://wafflegame.net/?utm_source=bestdaily.games&utm_medium=referral) — Swap letters into intersecting words in fifteen moves or fewer.
+- [Word Solitaire](https://wordsolitaire.net/daily/?utm_source=bestdaily.games&utm_medium=referral) — Spell words with the top letter cards to clear every pile in the daily deal.
 - [Wordle](https://www.nytimes.com/games/wordle/index.html?utm_source=bestdaily.games&utm_medium=referral) — Guess the five-letter word in six attempts with letter and position feedback.
 
 ### Daily trivia games
