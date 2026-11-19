@@ -116,3 +116,12 @@ Star this repository to find it again; use **Watch → Custom → Issues / Pull 
 Maintained by [BestDailyGames](https://github.com/bestdailygames) · [bestdaily.games](https://bestdaily.games/) · [support@bestdaily.games](mailto:support@bestdaily.games).
 
 Inspired by the clear list format of [aukspot/dles](https://github.com/aukspot/dles). Descriptions are independently maintained. Games and trademarks belong to their respective creators.
+
+
+## Recent playtests
+
+These Best Daily Games guides document what happened in the rounds we played. Each guide also credits and links to the original game.
+
+- [Minellion game](https://bestdaily.games/games/minellion/) — See what happens when an item is unrecognized or falls outside the prompt, then compare the seven results that make up the digging total.
+- [Medical Krillion](https://bestdaily.games/games/medical-krillion/) — Follow a fictional case from suggestions to the scorecard and see how a skipped prompt is recorded.
+- [Chartered game](https://bestdaily.games/games/chartered/) — Compare map and year scores with a tested 0/45 location and 45/45 year example, or start with the original untimed sample.
